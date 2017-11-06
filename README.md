@@ -1,1 +1,4 @@
 # TwitterForPython
+TwitterAPIをPythonでいじるやつ
+
+現状，アカウントのAPIidの検索とuseridの検索と，Tweetの詳細表示のみ実装
