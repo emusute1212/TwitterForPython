@@ -1,4 +1,4 @@
 # TwitterForPython
 TwitterAPIをPythonでいじるやつ
 
-現状，アカウントのAPIidの検索とuseridの検索と，Tweetの詳細表示のみ実装
+現状，アカウントのAPI_ID(ユーザーから変更することのできないID)の検索とUser_IDの検索と，Tweetの詳細表示のみ実装
